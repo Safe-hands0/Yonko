@@ -1,0 +1,119 @@
+<html>
+
+<body>
+
+<header>
+
+    <h1 align="center">ƊŠャZ۝Ʀ۝</h1>
+
+    <p align="center"><strong>engineer</strong></p>
+
+    <p align="center"><img src="https://i.pinimg.com/originals/db/33/a2/db33a2fada6b78aa5fed700e6e3a352a.jpg" width="150px"></p>
+
+</header>
+
+    <hr>
+
+<section>
+
+    <h2>Summary</h2>
+
+    <p>I've always found that talking about personal projects you've done using Sololearn app, is a nice substitute for commercial experience. It also shows you have a genuine interest in the subject which means you'd enjoy the lessons more.</p>
+
+</section>
+
+<section>
+
+    <h2>Experience</h2>
+
+    <ul>
+
+        <li><b>Machine operator-bagco</b> | 2020-2022</li>
+
+        <li><b>phone technician-carlcare</b> | 2022-2023</li>
+
+        <li><b>Gamer</b> | 2023-present</li>
+
+    </ul>
+
+</section>
+
+<section>
+
+    <h2>Skills</h2>
+
+    <table border="2">
+
+        <tr>
+
+            <th>Technologies</th>
+
+            <td>Python</td>
+
+            <td>Java</td>
+
+            <td>Django framework</td>
+
+        </tr>
+
+        <tr>
+
+            <th>Soft Skill</th>
+
+            <td>problem Solving</td>
+
+            <td>Team Work</td>
+
+            <td>Flexibility</td>
+
+        </tr>
+
+    </table>
+
+</section>
+
+    <h2>Contact Form</h2>
+
+    <form>
+
+        <label for="Name">Name:</label>
+
+        <input placeholder="Name" id="Name" type="text"></input><br/>
+
+        <label for="Email">Email:</label>
+
+        <input placeholder="Email" id="Email" type="Email"></input>
+
+        <textarea placeholder="message"></textarea><br>
+
+        <button>send</button>
+
+    </form>
+
+<section>
+
+    <form>
+
+        
+
+    </form>
+
+</section>
+
+<footer>
+
+    <h2>Contacts</h2>
+
+    <a href="https://www.facebook.com/profile.php?id=100021562220753">Facebook</a>
+
+    <a href="https://wa.me/7082027409">Whatsapp</a>
+
+    <a href="https://t.me/Bros_Jay001">Telegram</a>
+
+    <p align="center">Copyright &copy; ƊŠャZ۝Ʀ۝</p>
+
+</footer>
+
+</body>
+
+</html>
